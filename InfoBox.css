@@ -1,0 +1,25 @@
+/* InfoBox.css */
+.InfoBox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* Adjust as necessary */
+}
+
+.cardContainer {
+    width: 100%;
+    max-width: 345px;
+}
+
+.MuiCard-root {
+    color: white;
+    /* Ensure text is white for readability */
+}
+
+.MuiTypography-root {
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Optional: Add semi-transparent background for text readability */
+    padding: 10px;
+    border-radius: 5px;
+}

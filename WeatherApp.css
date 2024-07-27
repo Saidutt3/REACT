@@ -1,0 +1,12 @@
+/* WeatherApp.css */
+body,
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+}
+
+h1 {
+    margin-top: 20px;
+}
